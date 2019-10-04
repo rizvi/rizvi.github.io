@@ -45,7 +45,7 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Sr. Software Engineer
+ - title: Senior Software Engineer
    start: 2017
    end: Ongoing
    employer: BJIT Limited
@@ -55,7 +55,7 @@ roles:
    end: 2014
    employer: BJIT Limited
    description: Working with a range of cutting edge technologies and techniques including Amazon Web Services, Spring Boot, Spring MVC, GraphQL, Hibernate, Maven, Gradle, Git and other techniques.
- - title: Programmer/
+ - title: Programmer
    start: 2014
    end: 2013
    employer: BJIT Limited
